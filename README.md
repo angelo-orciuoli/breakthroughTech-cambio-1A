@@ -16,9 +16,17 @@ AI system that analyzes student responses, evaluates answer quality, and provide
 - **[Nuzhat Tabassum]** - [@Nuzhat-lanika](https://github.com/nuzhat-lanika)
 - **[Emmanuel Madera]** - [@emadera2](https://github.com/emadera2)
 
-## Tech Stack
-- Python, LangChain, OpenAI API
-- [Will be added as we determine architecture]
+## Project Overview
 
-## Setup
-[Installation/setup instructions] - in-progress
+| Project Step                           | Objectives                                      |
+|------------------------------------|--------------------------------------------------|
+| 1. Grant Discovery                 | - Identify eligible grants.                      |
+|                                    | - Gather a list of potential opportunities.      |
+| 2. Details Extraction              | - Extract key application info.                  |
+|                                    | - Understand the grantor and requirements.       |
+| 3. Document Retrieval              | - Pull relevant internal info.                   |
+|                                    | - Match past answers to new questions.           |
+| 4. Answer Drafting (NLP)           | - Generate draft responses automatically.        |
+|                                    | - Save time on initial application writing.      |
+| 5. Review and Submission UI        | - Provide a space for final edits.               |
+|                                    | - Streamline the submission process.             |

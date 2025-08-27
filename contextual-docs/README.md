@@ -1,5 +1,7 @@
 # Cambio Labs Overview
 
+Note: This document is meant to provide information and context about Cambio Labs under the assumption general research has already been conducted. In other words, this doc is meant after preliminary research on Cambio has been done.
+
 ## Mission and Vision
 
 Cambio Labs' core mission centers on empowering low-income BIPOC youth and adults by providing access to entrepreneurial education, employment opportunities, and the means to create generational wealth. The organization's vision emphasizes democratizing access to quality education and economic opportunity through technology and social innovation.

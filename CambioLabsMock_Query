@@ -1,0 +1,22 @@
+# mock_query.py ; this is soley a mock query that we can discuss whether or not needs adjusting and that we may use and modify to fit our goal once we have the documents to query 
+# loading documents into the code
+documents = ["Grant A deadline is June 1", "Grant B focuses on AI research"]
+
+# "index building"
+index = {i: doc for i, doc in enumerate(documents)}
+
+# "query system"
+def query_engine(question):
+    if "deadline" in question.lower():
+        return "Grant A deadline is June 1."
+    elif "focus" in question.lower() or "topic" in question.lower():
+        return "Grant B focuses on AI research."
+    else:
+        return "I couldn't find that in the documents."
+
+# Ask a question regarding the docs provided 
+question = "What is the deadline?"
+answer = query_engine(question)
+
+print("Question:", question)
+print("Answer:", answer)

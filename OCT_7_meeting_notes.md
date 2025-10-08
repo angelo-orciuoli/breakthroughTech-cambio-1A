@@ -25,3 +25,6 @@ https://tldv.io/app/meetings/68e5a5718e9be800130cc73f/
 
 ## Presentation and Communication
 * Program team will share presentation template for upcoming Maker Day; team should wait for details `32:34`
+
+## Slide Deck for meeting
+* https://docs.google.com/presentation/d/1E-MnIxk0tRJY9zkN2KcT1Cb425vj0lQXoP4k7wJRQcw/edit?usp=sharing
